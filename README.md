@@ -1,3 +1,5 @@
+Estructura del proyecto(Documentacion en cada archivo principal)
+
 /Parcial2-Laboratorio
 │
 ├── /src
